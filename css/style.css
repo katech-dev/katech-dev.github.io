@@ -897,6 +897,11 @@ h3 {
     left: 50%
 }
 
+#about_img {
+    top: 100%;
+    padding: 20px 20px;
+}
+
 .about_area .about_thumb .exprience h1 {
     color: #131313;
     font-weight: 700;
